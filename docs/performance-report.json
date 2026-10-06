@@ -1,0 +1,10 @@
+{
+  "measuredAt": "2026-10-06T15:16:30.383Z",
+  "node": "v24.16.0",
+  "iterations": 5000,
+  "scenario": "All generators at level 100; eight hours of pending progress",
+  "averageMs": 0.06819841999999993,
+  "p95Ms": 0.07580000000001519,
+  "budgetP95Ms": 10,
+  "scope": "Core/view computation only; browser rendering and mobile FPS are not measured"
+}

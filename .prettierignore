@@ -1,0 +1,9 @@
+node_modules/
+dist/
+release/
+legacy/
+package-lock.json
+docs/balancing-report.md
+*.log
+*.tsbuildinfo
+server-data/
