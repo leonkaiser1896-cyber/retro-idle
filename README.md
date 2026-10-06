@@ -1,6 +1,8 @@
 # Retro Idle
 
-Portfolio-Arbeitsprobe von **Leon Kaiser**: ein Idle-Game mit getrennten Spielregeln, reaktiver Oberfläche und serverseitig verwaltetem Fortschritt. Das Projekt wurde iterativ mit KI-Unterstützung bei Umsetzung und Review entwickelt.
+[![CI](https://github.com/leonkaiser1896-cyber/retro-idle/actions/workflows/ci.yml/badge.svg)](https://github.com/leonkaiser1896-cyber/retro-idle/actions/workflows/ci.yml)
+
+Ein Spieleprojekt von **[Kaiser Software](https://kaiser-software.com/)** und Portfolio-Arbeitsprobe von **Leon Kaiser**: ein Idle-Game mit getrennten Spielregeln, reaktiver Oberfläche und serverseitig verwaltetem Fortschritt. Das Projekt wurde iterativ mit KI-Unterstützung bei Umsetzung und Review entwickelt.
 
 Browser-Spiel mit React, TypeScript und Vite sowie einem Node.js-/SQLite-Server. Betriebe produzieren Einnahmen, die eingesammelt und in Gebäude, Verbesserungen und Manager investiert werden. Offline-Fortschritt ist auf acht Stunden begrenzt.
 
